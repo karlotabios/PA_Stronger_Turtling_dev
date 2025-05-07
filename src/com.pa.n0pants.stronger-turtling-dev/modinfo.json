@@ -1,0 +1,15 @@
+ {
+   "context": "server",
+   "identifier": "com.pa.n0pants.stronger-turtling-dev",
+   "display_name": "n0pants Stronger Turtling (WIP)",
+   "description": "Buffs defensive structures (laser tower, anti-air, anti-nuke, anti-orbital, orbital laser) by increasing specific stats. For example, all Laser Defense Towers have 50% more firing range, 50% more projectile speed. The Single Laser Defense Tower has 25% less damage, but has 100% more rate-of-fire. The Double Laser Defense Tower has 62.5% less damage, but has 300% more rate-of-fire. Advanced Triple Laser Defense Tower has has no change in damage and 66.67% more rate-of-fire. Static Artillery (Pelter and Holkins) have 25% more firing range and 100% more splash radius. Static Anti-Air defences (Galata and Flak) have 100% more firing range. Anti-nuke has 50% more firing range. Catapult has 40% less rate-of-fire, but has 30% more damage, 100% more firing range, and has splash damage. Umbrella and Anchor has 50% less rate-of-fire, but has 100% more damage. Umbrella has 50% more firing range while Anchor has 25% more firing range.",
+   "author": "n0pants",
+   "version": "1.0",
+   "build": "120799",
+   "date": "2025-05-05",
+   "signature": "not yet implemented",
+   "forum": "",
+   "priority": 100,
+   "icon": "",
+   "category": ["balance"]
+ }
